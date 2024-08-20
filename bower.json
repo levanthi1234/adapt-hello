@@ -1,14 +1,20 @@
 {
-  "name": "adapt-dragndrop",
-  "repository": "git://github.com/danielstorey/adapt-dragndrop.git",
+  "name": "adapt-hello",
+  "repository": "https://github.com/levanthi1234/adapt-hello.git",
   "framework": ">=5",
   "version": "1.4.0",
-  "homepage": "https://github.com/danielstorey/adapt-dragndrop",
-  "authors": ["Dan Storey <danielstorey@gmail.com>"],
-  "description": "A fully working drag and drop question component. Nice animations when toggling between user/model answer. For framework version 5+.",
-  "main": "/js/adapt-dragndrop.js",
-  "displayName": "Drag 'n' Drop",
-  "component": "dragndrop",
-  "keywords": ["adapt-plugin", "adapt-component", "adapt-dragndrop"],
+  "homepage": "https://github.com/levanthi1234/adapt-hello.git",
+  "authors": [
+    "Dan Storey <danielstorey@gmail.com>"
+  ],
+  "description": "Hello component",
+  "main": "/js/adapt-hello.js",
+  "displayName": "Hello",
+  "component": "hello",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component",
+    "adapt-hello"
+  ],
   "license": "GPLv3"
 }
